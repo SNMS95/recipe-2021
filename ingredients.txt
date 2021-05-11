@@ -1,4 +1,7 @@
-* 2 ts of cilantro
+<<<<<<< HEAD
+=======
+* 0.25 ts of cilantro
+>>>>>>> dislike-cil
 * 10 avacados
 * 1 lime
 * 1.5 tsp salt
